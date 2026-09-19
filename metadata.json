@@ -1,0 +1,6 @@
+{
+  "name": "Discord Username Checker & Generator",
+  "description": "Générateur et vérificateur en temps réel de pseudos Discord 3 et 4 lettres avec interface desktop Electron pour Windows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
